@@ -14,5 +14,6 @@ This repository contains solutions to various coding interview problems.
 8. Find Leaves of Binary Tree
 9. Roman to Integer
 10. Longest String Chain
+11. Earliest Moment When Everyone Becomes Friends
 
 *More questions will be added in the future.*
