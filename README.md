@@ -15,5 +15,6 @@ This repository contains solutions to various coding interview problems.
 9. Roman to Integer
 10. Longest String Chain
 11. Earliest Moment When Everyone Becomes Friends
+12. Number of Islands
 
 *More questions will be added in the future.*
