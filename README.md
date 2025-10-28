@@ -18,5 +18,6 @@ This repository contains solutions to various coding interview problems.
 12. Number of Islands
 13. Amount of New Area Painted
 14. Random Pick with Weight
+15. Find All Possible Recipes from Given Supplies
 
 *More questions will be added in the future.*
