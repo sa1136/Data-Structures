@@ -19,5 +19,6 @@ This repository contains solutions to various coding interview problems.
 13. Amount of New Area Painted
 14. Random Pick with Weight
 15. Find All Possible Recipes from Given Supplies
+16. Decode String
 
 *More questions will be added in the future.*
