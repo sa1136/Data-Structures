@@ -16,5 +16,6 @@ This repository contains solutions to various coding interview problems.
 10. Longest String Chain
 11. Earliest Moment When Everyone Becomes Friends
 12. Number of Islands
+13. Amount of New Area Painted
 
 *More questions will be added in the future.*
