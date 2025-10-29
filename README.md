@@ -23,5 +23,7 @@ This repository contains solutions to various coding interview problems.
 17. Meeting Rooms II
 18. Merge Intervals
 19. Insert Interval
+20. Longest Consecutive Sequence
+21. Sliding Window Maximum
 
 *More questions will be added in the future.*
