@@ -22,5 +22,6 @@ This repository contains solutions to various coding interview problems.
 16. Decode String
 17. Meeting Rooms II
 18. Merge Intervals
+19. Insert Interval
 
 *More questions will be added in the future.*
