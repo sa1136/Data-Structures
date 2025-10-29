@@ -21,5 +21,6 @@ This repository contains solutions to various coding interview problems.
 15. Find All Possible Recipes from Given Supplies
 16. Decode String
 17. Meeting Rooms II
+18. Merge Intervals
 
 *More questions will be added in the future.*
