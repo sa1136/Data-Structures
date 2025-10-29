@@ -25,5 +25,6 @@ This repository contains solutions to various coding interview problems.
 19. Insert Interval
 20. Longest Consecutive Sequence
 21. Sliding Window Maximum
+22. Trapping Rain Water
 
 *More questions will be added in the future.*
