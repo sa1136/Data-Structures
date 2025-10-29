@@ -26,5 +26,6 @@ This repository contains solutions to various coding interview problems.
 20. Longest Consecutive Sequence
 21. Sliding Window Maximum
 22. Trapping Rain Water
+23. Median of Two Sorted Arrays
 
 *More questions will be added in the future.*
