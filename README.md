@@ -28,5 +28,6 @@ This repository contains solutions to various coding interview problems.
 22. Trapping Rain Water
 23. Median of Two Sorted Arrays
 24. Course Schedule II
+25. Course Schedule I
 
 *More questions will be added in the future.*
