@@ -27,5 +27,6 @@ This repository contains solutions to various coding interview problems.
 21. Sliding Window Maximum
 22. Trapping Rain Water
 23. Median of Two Sorted Arrays
+24. Course Schedule II
 
 *More questions will be added in the future.*
