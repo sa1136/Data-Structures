@@ -33,6 +33,7 @@ This repository contains solutions to various coding interview problems.
 28. Range Module
 29. Unique Paths
 30. Longest Increasing Path in a Matrix
+31. Longest Common Prefix
 25. Course Schedule I
 
 *More questions will be added in the future.*
