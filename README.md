@@ -30,6 +30,7 @@ This repository contains solutions to various coding interview problems.
 24. Course Schedule II
 26. Detonate the Maximum Bombs
 27. Detect Squares
+28. Range Module
 25. Course Schedule I
 
 *More questions will be added in the future.*
