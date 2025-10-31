@@ -36,6 +36,7 @@ This repository contains solutions to various coding interview problems.
 31. Longest Common Prefix
 32. Text Justification
 33. Guess the Word
+34. Shortest Way to Form String
 25. Course Schedule I
 
 *More questions will be added in the future.*
