@@ -35,6 +35,7 @@ This repository contains solutions to various coding interview problems.
 30. Longest Increasing Path in a Matrix
 31. Longest Common Prefix
 32. Text Justification
+33. Guess the Word
 25. Course Schedule I
 
 *More questions will be added in the future.*
