@@ -41,6 +41,7 @@ This repository contains solutions to various coding interview problems.
 36. Filling Bookcase Shelves
 37. Maximum Number of Visible Points
 38. Snapshot Array
+39. First Bad Version
 25. Course Schedule I
 
 *More questions will be added in the future.*
