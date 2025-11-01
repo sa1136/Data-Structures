@@ -40,6 +40,7 @@ This repository contains solutions to various coding interview problems.
 35. Valid Parentheses
 36. Filling Bookcase Shelves
 37. Maximum Number of Visible Points
+38. Snapshot Array
 25. Course Schedule I
 
 *More questions will be added in the future.*
