@@ -43,6 +43,7 @@ This repository contains solutions to various coding interview problems.
 38. Snapshot Array
 39. First Bad Version
 40. Evaluate Reverse Polish Notation
+41. LRU Cache
 25. Course Schedule I
 
 *More questions will be added in the future.*
