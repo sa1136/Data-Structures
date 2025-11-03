@@ -47,6 +47,7 @@ This repository contains solutions to various coding interview problems.
 42. Binary Tree Preorder Traversal
 43. Binary Tree Inorder Traversal
 44. Binary Tree Postorder Traversal
+45. Binary Tree Level Order Traversal
 25. Course Schedule I
 
 *More questions will be added in the future.*
