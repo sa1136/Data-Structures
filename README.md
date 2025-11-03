@@ -52,6 +52,7 @@ This repository contains solutions to various coding interview problems.
 47. Balanced Binary Tree
 48. Diameter of Binary Tree
 49. Binary Tree Maximum Path Sum
+50. Same Tree
 25. Course Schedule I
 
 *More questions will be added in the future.*
