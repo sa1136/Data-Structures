@@ -49,6 +49,7 @@ This repository contains solutions to various coding interview problems.
 44. Binary Tree Postorder Traversal
 45. Binary Tree Level Order Traversal
 46. Maximum Depth of Binary Tree
+47. Balanced Binary Tree
 25. Course Schedule I
 
 *More questions will be added in the future.*
