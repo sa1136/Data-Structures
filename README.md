@@ -56,6 +56,5 @@ This repository contains solutions to various coding interview problems.
 51. Binary Tree Zigzag Level Order Traversal
 52. Ice Maze
 53. Range Add Queries
-25. Course Schedule I
+54. Course Schedule I
 
-*More questions will be added in the future.*
